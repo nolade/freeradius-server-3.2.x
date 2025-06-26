@@ -12,7 +12,7 @@ nav:
 - modules/installation/nav.adoc
 - modules/concepts/nav.adoc
 - modules/howto/nav.adoc
-- modules/tutorials/nav.adoc
+# modules/tutorials/nav.adoc
 - modules/unlang/nav.adoc
 - modules/developers/nav.adoc
-- modules/raddb/nav.adoc
+
